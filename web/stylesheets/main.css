@@ -20,7 +20,7 @@
 }
 .jumbotron h1 {
   font-size: 40px;
-  font-family: cursive;
+  font-family: 'Courier New', Courier, monospace;
 }
 .navbar + .jumbotron {
   margin-top: -20px;

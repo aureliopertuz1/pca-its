@@ -13,7 +13,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   background: #dcdfd1;
 }
 .jumbotron p {
-  color: #c8ff00;
+  color: #20220e;
   max-width: 100%;
   margin: 1em auto 2em;
 }
@@ -26,7 +26,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 .jumbotron .lang-logo {
   display: block;
   background: #949c48;
-  border-radius: 0%;
+  border-radius: 20%;
   overflow: hidden;
   width: 200px;
   height: 200px;

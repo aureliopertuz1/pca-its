@@ -14,12 +14,13 @@
   background: #dcdfd1;
 }
 .jumbotron p {
-  color: #20220e;
+  color: #e1e2da;
   max-width: 100%;
   margin: 1em auto 2em;
 }
 .jumbotron h1 {
-  font-size: 20px;
+  font-size: 60px;
+  font-family: sans-serif;
 }
 .navbar + .jumbotron {
   margin-top: -20px;

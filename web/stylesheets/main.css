@@ -10,15 +10,15 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 7
 }
 .jumbotron .btn-primary:hover {
-  background: #c8ff00;
+  background: #dcdfd1;
 }
 .jumbotron p {
   color: #c8ff00;
-  max-width: 75%;
+  max-width: 100%;
   margin: 1em auto 2em;
 }
 .jumbotron h1 {
-  font-size: 40px;
+  font-size: 70px;
 }
 .navbar + .jumbotron {
   margin-top: -20px;
@@ -26,10 +26,10 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 .jumbotron .lang-logo {
   display: block;
   background: #949c48;
-  border-radius: 100%;
+  border-radius: 0%;
   overflow: hidden;
-  width: 1000px;
-  height: 1000px;
+  width: 200px;
+  height: 200px;
   margin: initial;
   border: 2px solid rgb(0, 0, 0);
 }

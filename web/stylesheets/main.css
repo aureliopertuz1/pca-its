@@ -2,11 +2,12 @@
   background: #ffd900;
   color: rgb(0, 0, 0);
   padding-bottom: 80px;
+  font-family: sans-serif;
 }
 .jumbotron .btn-primary {
   background: #000000;
   border-color: #000000; 
-  font-family: cursive; 
+  
   
 }
 .jumbotron .btn-primary:hover {

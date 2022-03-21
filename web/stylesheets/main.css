@@ -4,10 +4,10 @@
   padding-bottom: 80px;
 }
 .jumbotron .btn-primary {
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   background: #000000;
   border-color: #000000; 
-  font-size: 7
+  font-family: cursive; 
+  
 }
 .jumbotron .btn-primary:hover {
   background: #dcdfd1;

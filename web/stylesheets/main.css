@@ -6,12 +6,14 @@
 .jumbotron .btn-primary {
   background: #000000;
   border-color: #000000;
+  font-family: cursive;
+  font-size: 7
 }
 .jumbotron .btn-primary:hover {
   background: #c8ff00;
 }
 .jumbotron p {
-  color: #d9ccee;
+  color: #c8ff00;
   max-width: 75%;
   margin: 1em auto 2em;
 }

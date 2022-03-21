@@ -27,11 +27,11 @@
 }
 .jumbotron .lang-logo {
   display: block;
-  background: #949c48;
+  background: #949c4800;
   border-radius: 20%;
   overflow: hidden;
-  width: 500px;
-  height: 500px;
+  width: 150px;
+  height: 150px;
   margin: initial;
   border: 2px solid rgb(0, 0, 0);
 }

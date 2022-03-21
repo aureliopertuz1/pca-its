@@ -24,10 +24,10 @@
 .jumbotron .lang-logo {
   display: block;
   background: #949c48;
-  border-radius: 50%;
+  border-radius: 100%;
   overflow: hidden;
-  width: 100px;
-  height: 100px;
+  width: 1000px;
+  height: 1000px;
   margin: auto;
   border: 2px solid rgb(0, 0, 0);
 }
